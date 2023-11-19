@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "866469420229",
+    "project_id": "newotpauthfirebase",
+    "storage_bucket": "newotpauthfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866469420229:android:8341109b677e9fe1f4e4ac",
+        "android_client_info": {
+          "package_name": "com.example.otpauthfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrv_V0GtycVQ0FfxNpqsNQw0ua8K01VGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
